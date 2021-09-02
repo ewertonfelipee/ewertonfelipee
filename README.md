@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/ewerton-felipe-silva-marinho-785653168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="15X6q8oGGkiFeUkppyCrzcFbqjgZMWxsze"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/ewertonfelipee/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ewertonfelipee/ewertonfelipee/blob/output/github-contribution-grid-snake.svg)
  
 </div>
