@@ -1,10 +1,10 @@
 ## Hii, I'm Ewerton 
  <div>
   <a href="https://github.com/ewertonfelipee">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=shades-of-purple"/>
    
-   
+  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewertonfelipee&theme=synthwave)
   <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
