@@ -3,6 +3,11 @@
   <a href="https://github.com/ewertonfelipee">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=nightowl"/>
+   
+   
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
 </div>
   <h2>Studied and Interest Programming Languages</h2>
 <div style="display: inline_block"><br>
