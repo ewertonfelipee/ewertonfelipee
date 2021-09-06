@@ -5,6 +5,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=shades-of-purple"/>
    
   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewertonfelipee&theme=synthwave)
+   
   <!--START_SECTION:waka-->
 ```text
 Week: 30 August, 2021 - 05 September, 2021
