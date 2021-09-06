@@ -7,7 +7,9 @@
   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewertonfelipee&theme=synthwave)
   <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 August, 2021 - 05 September, 2021
+
+C++   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
