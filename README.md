@@ -6,15 +6,13 @@
    
   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewertonfelipee&theme=synthwave)
    
-  <!--
-<!--START_SECTION:waka-->
+  <!--START_SECTION:waka-->
 ```text
 Week: 31 August, 2021 - 06 September, 2021
 
 C++   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-   -->
 
 </div>
   <h2>Studied and Interest Programming Languages</h2>
