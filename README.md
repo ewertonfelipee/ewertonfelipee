@@ -4,8 +4,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=shades-of-purple"/>
    
-  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewertonfelipee&theme=synthwave)
-   
   <!--START_SECTION:waka-->
 ```text
 Week: 01 September, 2021 - 07 September, 2021
