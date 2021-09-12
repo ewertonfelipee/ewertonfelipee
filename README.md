@@ -6,7 +6,7 @@
    
   <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
 C++   3 hrs 54 mins   ███████████████▓░░░░░░░░░   62.78 % 
 C     2 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.22 % 
