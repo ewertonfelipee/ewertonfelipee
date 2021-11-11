@@ -6,11 +6,11 @@
    
   <!--START_SECTION:waka-->
 ```text
-Week: 03 November, 2021 - 09 November, 2021
+Week: 04 November, 2021 - 10 November, 2021
 
-Java          4 hrs 33 mins   ██████████████░░░░░░░░░░░   55.99 % 
-C++           3 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   43.03 % 
-Objective-C   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+C++           3 hrs 30 mins   ██████████████▒░░░░░░░░░░   57.33 % 
+Java          2 hrs 33 mins   ██████████▒░░░░░░░░░░░░░░   41.82 % 
+Objective-C   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
