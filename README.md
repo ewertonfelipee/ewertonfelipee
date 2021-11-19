@@ -6,10 +6,10 @@
    
   <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
+Week: 12 November, 2021 - 18 November, 2021
 
-C++        2 hrs 49 mins   ██████████████▒░░░░░░░░░░   57.65 % 
-Java       2 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   42.21 % 
+C++        3 hrs 20 mins   █████████████▒░░░░░░░░░░░   53.72 % 
+Java       2 hrs 52 mins   ███████████▓░░░░░░░░░░░░░   46.17 % 
 ```
 <!--END_SECTION:waka-->
 
