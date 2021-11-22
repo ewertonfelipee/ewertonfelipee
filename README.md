@@ -3,6 +3,8 @@
   <a href="https://github.com/ewertonfelipee">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <a href="https://github.com/ewertonfelipee">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonfelipee&theme=jolly&border=61dafb&hide_border=false"         alt="ewertonfelipee"/></a>
    
   <!--START_SECTION:waka-->
 ```text
@@ -13,7 +15,8 @@ Java   3 hrs 7 mins    ████████████░░░░░░░
 ```
 <!--END_SECTION:waka-->
 </div>
- <div style="display: inline_block"></div>
+ 
+<div style="display: inline_block"></div>
   <h2>Current Languages: C++ and Java</h2>
   <h2>Studied and Interest Programming Languages</h2>
 <div style="display: inline_block"><br>
