@@ -12,10 +12,9 @@ C++    3 hrs 23 mins   █████████████░░░░░░
 Java   3 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.85 % 
 ```
 <!--END_SECTION:waka-->
-
 </div>
- <div style="display: inline_block"><br></div>
-  <h4>Current Lenguages: C++ and Java</h4>
+ <div style="display: inline_block"></div>
+  <h2>Current Languages: C++ and Java</h2>
   <h2>Studied and Interest Programming Languages</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ewerton-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
