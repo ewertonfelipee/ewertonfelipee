@@ -12,10 +12,10 @@ Java   3 hrs 7 mins    ████████████░░░░░░░
 
  <div>
   <a href="https://github.com/ewertonfelipee">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="162" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=shades-of-purple"/>
   <a href="https://github.com/ewertonfelipee">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonfelipee&theme=jolly&border=61dafb&hide_border=false"         alt="ewertonfelipee"/></a>
+  <img height="162" src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonfelipee&theme=jolly&border=61dafb&hide_border=false"         alt="ewertonfelipee"/></a>
    
 </div> 
 <div style="display: inline_block"></div>
