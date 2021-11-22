@@ -17,19 +17,25 @@ Java   3 hrs 7 mins    ████████████░░░░░░░
   <a href="https://github.com/ewertonfelipee">
   <img height="132" src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonfelipee&theme=jolly&border=61dafb&hide_border=false"         alt="ewertonfelipee"/></a>
    
-</div>
- 
+</div> 
 <div style="display: inline_block"></div>
-  <h2>Current Languages: C++ and Java</h2>
   <h2>Studied and Interest Programming Languages</h2>
 <div style="display: inline_block">
   <img align="center" alt="Ewerton-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Ewerton-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-</div>
-  
+  <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+</div> 
+ 
   ##
+ 
+ <h2>Current Languages</h2>
+<div style="display: inline_block">
+  <img align="center" alt="Ewerton-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+</div>
+ 
+ ##
  
 <div> 
   <a href="https://instagram.com/xwxrtxn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
