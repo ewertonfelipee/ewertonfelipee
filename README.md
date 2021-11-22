@@ -14,8 +14,7 @@ Java   3 hrs 7 mins    ████████████░░░░░░░
 <!--END_SECTION:waka-->
 
 </div>
-<div style="display: inline_block"><br>
-</div>
+style="display: inline_block"<br>
   <h4>Current Lenguages: C++ and Java</h4>
   <h2>Studied and Interest Programming Languages</h2>
 <div style="display: inline_block"><br>
