@@ -3,11 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
-Java   2 hrs 47 mins   ██████████████░░░░░░░░░░░   56.60 % 
-Dart   2 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.36 % 
-C++    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Java   4 hrs 27 mins   ██████████████████▒░░░░░░   72.99 % 
+Dart   1 hr 38 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.01 % 
 ```
 <!--END_SECTION:waka-->
 
