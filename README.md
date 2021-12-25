@@ -3,9 +3,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
+Week: 18 December, 2021 - 24 December, 2021
 
-Java   11 hrs 41 mins  █████████████████████████   100.00 % 
+Java   12 hrs 43 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
