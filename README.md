@@ -3,7 +3,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 January, 2022 - 05 February, 2022
+
+Dart   45 mins         █████████████████████████   99.78 % 
 ```
 <!--END_SECTION:waka-->
 
