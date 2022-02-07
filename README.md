@@ -3,9 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
-Dart   45 mins         █████████████████████████   99.78 % 
+Java   59 mins         ██████████████░░░░░░░░░░░   55.91 % 
+Dart   46 mins         ███████████░░░░░░░░░░░░░░   43.99 % 
 ```
 <!--END_SECTION:waka-->
 
