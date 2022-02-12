@@ -3,11 +3,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
-Java     4 hrs 2 mins    ███████████████▒░░░░░░░░░   60.80 % 
-Dart     2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.68 % 
-Groovy   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Java     4 hrs 2 mins    ████████████████░░░░░░░░░   63.50 % 
+Dart     2 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 % 
+Groovy   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
