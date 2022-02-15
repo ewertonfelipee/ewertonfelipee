@@ -1,5 +1,5 @@
 ## Hi, I'm Ewerton 
-## Computer Science Student at UFAL, Maceió-AL, Brazil
+## Computer Science Undergraduate at UFAL and CyberSecurity Student, Maceió-AL, Brazil
 
 <!--START_SECTION:waka-->
 ```text
