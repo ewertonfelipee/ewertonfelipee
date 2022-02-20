@@ -3,12 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Total: 14 hrs
-
-Java   13 hrs 31 mins  ████████████████████████░   96.55 % 
-Dart   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Java       14 hrs 39 mins  ███████████████████████▓░   95.21 % 
+Markdown   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 ```
 <!--END_SECTION:waka-->
 
