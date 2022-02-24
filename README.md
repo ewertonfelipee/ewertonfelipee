@@ -3,10 +3,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
-Java       10 hrs 3 mins   ███████████████████████▒░   93.11 % 
-Markdown   44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Java       7 hrs 2 mins    █████████████████████░░░░   83.95 % 
+Markdown   44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON       35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 ```
 <!--END_SECTION:waka-->
 
