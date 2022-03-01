@@ -2,12 +2,15 @@
 ## Computer Science Undergraduate at UFAL and CyberSecurity Student, Maceió-AL, Brazil
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Java       1 hr 43 mins    ██████████████████▓░░░░░░   74.10 % 
-JSON       35 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.84 % 
+```text
+From: 21 February 2022 - To: 28 February 2022
+
+Java       1 hr 43 mins    ██████████████████▓░░░░░░   74.10 %
+JSON       35 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
+
 <!--END_SECTION:waka-->
 
  <div>
