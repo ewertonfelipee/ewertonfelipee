@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 March 2022 - To: 17 March 2022
+
+C++    38 mins         ████████████▓░░░░░░░░░░░░   50.29 %
+C      37 mins         ████████████░░░░░░░░░░░░░   48.24 %
+Java   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
