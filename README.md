@@ -23,6 +23,8 @@ Java     1 min           ░░░░░░░░░░░░░░░░░░�
   <a href="https://github.com/ewertonfelipee">
   <img height="162" src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonfelipee&theme=jolly&border=61dafb&hide_border=false"         alt="ewertonfelipee"/></a>
    
+   ##
+   
 </div> 
 <div style="display: inline_block"></div>
   <h2>Studied and Interest Programming Languages</h2>
@@ -34,14 +36,6 @@ Java     1 min           ░░░░░░░░░░░░░░░░░░�
 </div> 
  
   ##
- 
- <h2>Current Languages</h2>
-<div style="display: inline_block">
-  <img align="center" alt="Ewerton-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-</div>
- 
- ##
  
 <div> 
   <a href="https://instagram.com/xwxrtxn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
