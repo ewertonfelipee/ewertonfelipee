@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
+From: 21 April 2022 - To: 28 April 2022
 
-C          3 hrs 6 mins    ████████████▓░░░░░░░░░░░░   50.16 %
-Assembly   2 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.28 %
-Makefile   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Markdown   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+C          4 hrs 27 mins   ██████████████▓░░░░░░░░░░   59.10 %
+Assembly   2 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   31.41 %
+Makefile   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Markdown   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
