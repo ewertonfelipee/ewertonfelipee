@@ -26,16 +26,25 @@ Other      4 mins          ▒░░░░░░░░░░░░░░░░�
    
 </div> 
 <div style="display: inline_block"></div>
-  <h2>Studied and Interest Programming Languages</h2>
+  <h2>Current Studied Programming Languages</h2>
 <div style="display: inline_block">
   <img align="center" alt="Ewerton-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Ewerton-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <!--   <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> -->
+<!--   <img align="center" alt="Ewerton-ASM" heigh="30" width="40" src="https://www.flaticon.com/free-icon/asm_1088504"> -->
 </div> 
  
   ##
- 
+ <div style="display: inline_block"></div>
+   <h2>Technologies</h2>
+ <div style="display: inline_block">
+   <img align="center" alt="Ewerton-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+   <img align="center" alt="Ewerton-VSCode" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+   <img align="center" alt="Ewerton-GCC" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">
+   <img align="center" alt="Ewerton-Ubuntu" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  
+ ##
 <div> 
   <a href="https://instagram.com/xwxrtxn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:ewertonfmarinho@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
