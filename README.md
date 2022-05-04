@@ -32,7 +32,7 @@ Other      4 mins          ▒░░░░░░░░░░░░░░░░�
   <img align="center" alt="Ewerton-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <!--   <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> -->
-<!--   <img align="center" alt="Ewerton-ASM" heigh="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/assemblyscript.svg"> -->
+  <img align="center" alt="Ewerton-ASM" heigh="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/assemblyscript.svg">
 </div> 
  
   ##
