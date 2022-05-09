@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
-C          4 hrs 19 mins   ████████████████░░░░░░░░░   63.53 %
-Assembly   2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.66 %
+C          4 hrs 19 mins   ████████████████░░░░░░░░░   63.52 %
+Assembly   2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.68 %
 Makefile   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
