@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
 C            2 hrs 58 mins   ████████████▒░░░░░░░░░░░░   48.80 %
 Assembly     1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
