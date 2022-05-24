@@ -49,6 +49,7 @@ PHP          0 secs          ░░░░░░░░░░░░░░░░░
    <img align="center" alt="Ewerton-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img align="center" alt="Ewerton-VSCode" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
    <img align="center" alt="Ewerton-GCC" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">
+   <img align="center" alt="Ewerton-GCC" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" alt="Ewerton-Ubuntu" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   
  ##
