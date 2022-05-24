@@ -24,7 +24,13 @@ PHP          0 secs          ░░░░░░░░░░░░░░░░░
   <img height="162" src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonfelipee&theme=jolly&border=61dafb&hide_border=false"         alt="ewertonfelipee"/></a>
    
    ##
+   <div style="display: inline_block"></div>
+    <h2>Certificates</h2>
+   <div>
+     <a href="https://github.com/ewertonfelipee/Certifications" target="_blank"> <img src="https://img.shields.io/badge/Certificates-Courses-blue" target="_blank"></a>
+   </div>
    
+   ##   
 </div> 
 <div style="display: inline_block"></div>
   <h2>Current Studied Programming Languages</h2>
@@ -46,6 +52,9 @@ PHP          0 secs          ░░░░░░░░░░░░░░░░░
    <img align="center" alt="Ewerton-Ubuntu" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   
  ##
+  
+  <div style="display: inline_block"></div>
+  <h2>Contacts</h2>
 <div> 
   <a href="https://instagram.com/xwxrtxn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:ewertonfmarinho@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
