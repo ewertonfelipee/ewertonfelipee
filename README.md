@@ -45,7 +45,7 @@ C++          7 mins          ▒░░░░░░░░░░░░░░░░
  
   ##
  <div style="display: inline_block"></div>
-   <h2>Technologies</h2>
+   <h2>Tools</h2>
  <div style="display: inline_block">
    <img align="center" alt="Ewerton-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img align="center" alt="Ewerton-VSCode" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
