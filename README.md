@@ -33,10 +33,12 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
    ##   
 </div> 
 <div style="display: inline_block"></div>
-  <h2>Current Studied Programming Languages</h2>
+  <h2>Current Techs Studied</h2>
 <div style="display: inline_block">
-  <img align="center" alt="Ewerton-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Ewerton-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ewerton-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
+  <img align="center" alt="Ewerton-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Ewerton-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Ewerton-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <!--   <img align="center" alt="Ewerton-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> -->
 <!--   <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> -->
@@ -49,8 +51,8 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
  <div style="display: inline_block">
    <img align="center" alt="Ewerton-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img align="center" alt="Ewerton-VSCode" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-   <img align="center" alt="Ewerton-GCC" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">
-   <img align="center" alt="Ewerton-GCC" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<!--    <img align="center" alt="Ewerton-GCC" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"> -->
+   <img align="center" alt="Ewerton-GIT" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" alt="Ewerton-Ubuntu" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   
  ##
