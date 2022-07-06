@@ -25,7 +25,7 @@ PHP          16 mins         ▓░░░░░░░░░░░░░░░░
    <div style="display: inline_block"></div>
     <h2>Certificates</h2>
    <div>
-     <a href="https://github.com/ewertonfelipee/Certifications" target="_blank"> <img src="https://img.shields.io/badge/Certificates-Courses-blue" target="_blank"></a>
+     <a href="https://github.com/ewertonfelipee/Certificates" target="_blank"> <img src="https://img.shields.io/badge/Certificates-Courses-blue" target="_blank"></a>
    </div>
    
    ##   
