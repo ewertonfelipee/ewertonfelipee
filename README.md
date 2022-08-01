@@ -1,20 +1,6 @@
 ## Hi, I'm Ewerton 
 ## Computer Science Undergraduate at UFAL and CyberSecurity Enthusiast, Maceió-AL, Brazil
 
-<!--START_SECTION:waka-->
-
-```text
-From: 23 July 2022 - To: 30 July 2022
-
-JavaScript   3 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   37.21 %
-PHP          3 hrs 11 mins   █████████░░░░░░░░░░░░░░░░   36.13 %
-Python       1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-HTML         56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-```
-
-<!--END_SECTION:waka-->
-
  <div>
   <a href="https://github.com/ewertonfelipee">
   <img height="162" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
