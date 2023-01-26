@@ -1,5 +1,5 @@
 ## Hi, I'm Ewerton
-<img src="https://tryhackme-badges.s3.amazonaws.com/3wxrtx5.png" alt="TryHackMe">
+ <a href=https://tryhackme.com/p/3wxrtx5><img src="https://tryhackme-badges.s3.amazonaws.com/3wxrtx5.png" alt="TryHackMe"></a>
 
 ## Computer Science Undergraduate at UFAL and CyberSecurity Enthusiast, Maceió-AL, Brazil
 
