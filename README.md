@@ -46,12 +46,10 @@
  ##
   
   <div style="display: inline_block"></div>
- <!-- <h2>Contacts</h2>
+  <h2>Contacts</h2>
 <div> 
-  <a href="https://instagram.com/xwxrtxn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://instagram.com/xwxrtxn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="mailto:ewertonfmarinho@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ewerton-felipe-silva-marinho-785653168/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
- 
-  ![Snake animation](https://github.com/ewertonfelipee/ewertonfelipee/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/ewerton-marinho-785653168/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
