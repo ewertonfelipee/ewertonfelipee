@@ -32,8 +32,7 @@
   <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="Ewerton-ASM" heigh="25" width="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/assemblyscript.svg"> -->
 </div> 
- 
-  ##
+
  <div style="display: inline_block"></div>
    <!-- <h2>Tools</h2>
  <div style="display: inline_block">
@@ -42,8 +41,7 @@
 <img align="center" alt="Ewerton-GCC" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">
    <img align="center" alt="Ewerton-GIT" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" alt="Ewerton-Ubuntu" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"> -->
-  
- ##
+
   
   <div style="display: inline_block"></div>
   <h2>Contacts</h2>
