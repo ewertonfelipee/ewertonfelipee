@@ -7,9 +7,9 @@
  <div>
   <a href="https://github.com/ewertonfelipee">
   <img height="162" src="https://github-readme-stats.vercel.app/api?username=ewertonfelipee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonfelipee&layout=compact&langs_count=7&theme=shades-of-purple"/>
-  <a href="https://github.com/ewertonfelipee">
-  <img height="153" src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonfelipee&theme=jolly&border=61dafb&hide_border=false"         alt="ewertonfelipee"/></a>
+  </a>
    
    ##
    <div style="display: inline_block"></div>
