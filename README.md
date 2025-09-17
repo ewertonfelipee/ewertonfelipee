@@ -2,7 +2,7 @@
  <a href=https://tryhackme.com/p/proxyy><img src="https://tryhackme-badges.s3.amazonaws.com/proxyy.png" alt="TryHackMe"></a>
  <a href=https://play.picoctf.org/users/pr0xyy><img height="57" src="https://picoctf.com/img/logos/pico-mark.svg"></a>
 
-## Computer Science at UFAL and CyberSecurity Self-taught Student, Maceió-AL, Brazil
+## Computer Science graduate and CyberSecurity Self-taught Student
 
  <div>
   <a href="https://github.com/ewertonfelipee">
